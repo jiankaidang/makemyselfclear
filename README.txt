@@ -1,3 +1,5 @@
+"Make Myself Clear" is a web application that scans social networks, Facebook and Twitter, for potentially sensitive information associated with you.
+
 Have you been posting angry?
 
 Been seeking online support for your upcoming surgery?
